@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="CarreraGT" size="1.000000 0.438596" />
+    <ImageTarget name="911-gts-1" size="1.000000 0.667188" />
+    <ImageTarget name="911-gts" size="1.000000 0.390244" />
+  </Tracking>
+</QCARConfig>
